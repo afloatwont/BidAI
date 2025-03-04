@@ -52,8 +52,5 @@ Follow these instructions to set up and run the project on your local machine.
 
 Watch the demo video to see the app in action:
 
-<video width="600" controls>
-  <source src="https://github.com/afloatwont/BidAI/raw/main/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[](https://github.com/afloatwont/BidAI/raw/main/demo.mp4)
 
