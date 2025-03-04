@@ -52,5 +52,4 @@ Follow these instructions to set up and run the project on your local machine.
 
 Watch the demo video to see the app in action:
 
-[](https://github.com/afloatwont/BidAI/raw/main/demo.mp4)
-
+https://github.com/user-attachments/assets/ca673a85-97bd-4186-9250-13e3d2a0bfff
